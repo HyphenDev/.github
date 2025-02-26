@@ -1,3 +1,7 @@
 [유성윤](https://github.com/3x-haust)
 <br/>
 [박준원](https://github.com/nck90)
+<br/>
+[장준하](https://github.com/jjhox)
+<br/>
+[전유림](https://github.com/yourim08)
